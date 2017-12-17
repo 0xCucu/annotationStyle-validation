@@ -1,0 +1,28 @@
+{
+  "name": "cucumber/validation",
+  "description": "A annotation style validation plug-in Extension for Laravel 5",
+  "keywords": [
+    "cucumber",
+    "annotation",
+    "validation",
+    "validate"
+  ],
+  "homepage": "https://github.com/zhenyangjiang/annotationStyle-validation",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "zhenyangjiang",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php" : "^5.5.0|^7.0"
+
+  },
+  "autoload": {
+    "psr-4": {
+      "cucmber\\validation\\": "src"
+    }
+  }
+
+}
