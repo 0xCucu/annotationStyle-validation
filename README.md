@@ -1,1 +1,0 @@
-# annotationStyle-validation
