@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "cucmber\\validation": "src"
+      "cucmber\\validation\\": "src"
     }
   }
 
