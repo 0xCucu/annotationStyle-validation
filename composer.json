@@ -26,9 +26,6 @@
     "psr-4": {
       "cucmber\\validation": "src"
     }
-  },
-  "autoload-dev": {
-
   }
 
 }
